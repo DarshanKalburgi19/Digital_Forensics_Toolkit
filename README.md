@@ -523,7 +523,7 @@ A typical demonstration can follow this sequence:
 Added project screenshots to:
 
 ```text
-docs/screenshots/
+screenshots/
 ```
 
 screenshots:
@@ -543,27 +543,27 @@ Example:
 
 ### Dashboard
 
-![Dashboard](docs/screenshots/01-dashboard.png)
+![Dashboard](screenshots/01-dashboard.png.png)
 
 ### Evidence Inventory
 
-![Evidence Inventory](docs/screenshots/03-evidence-inventory.png)
+![Evidence Inventory](screenshots/03-evidence-inventory.png)
 
 ### Integrity Verification
 
-![Hash Verification](docs/screenshots/04-hash-verification.png)
+![Hash Verification](screenshots/04-hash-verification.png)
 
 ### Chain of Custody
 
-![Chain of Custody](docs/screenshots/05-chain-of-custody.png)
+![Chain of Custody](screenshots/05-chain-of-custody.png)
 
 ### File Analysis
 
-![File Analysis](docs/screenshots/06-file-analysis.png)
+![File Analysis](screenshots/06-file-analysis.png)
 
 ### Generated Report
 
-![Forensic Report](docs/screenshots/08-forensic-report.png)
+![Forensic Report](screenshots/08-forensic-report.png)
 
 > If the screenshots are not included in a particular clone of the repository, the image references above will naturally appear as unavailable until the files are added.
 
