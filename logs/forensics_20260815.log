@@ -1,9 +1,1 @@
-2026-08-15 18:17:42 - main - INFO - Starting Digital Forensics Toolkit
-2026-08-15 18:17:42 - case_manager - INFO - Database initialized successfully
-2026-08-15 18:17:42 - case_manager - INFO - Case manager initialized
-2026-08-15 18:17:42 - evidence_manager - INFO - Evidence manager initialized
-2026-08-15 18:17:42 - sleuthkit - WARNING - Sleuth Kit not detected
-2026-08-15 18:17:44 - volatility - INFO - Volatility 3 found: C:\python 312\Scripts\vol.EXE
-2026-08-15 18:18:00 - sleuthkit - WARNING - Sleuth Kit not detected
-2026-08-15 18:18:00 - volatility - INFO - Volatility 3 found: C:\python 312\Scripts\vol.EXE
-2026-08-15 18:23:18 - main - INFO - Application closed
+
