@@ -372,8 +372,8 @@ External tools are intentionally kept separate from the core Python installation
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/DarshanKalburgi19/Digital-Forensics-Toolkit.git
-cd Digital-Forensics-Toolkit
+git clone https://github.com/DarshanKalburgi19/Digital_Forensics_Toolkit.git
+cd Digital_Forensics_Toolkit
 ```
 
 Replace `DarshanKalburgi19` with your GitHub username.
