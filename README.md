@@ -124,7 +124,7 @@ This toolkit provides a unified interface for common forensic investigation task
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/DarshanKalburgi19/Digital-Forensics-Toolkit.git
+git clone https://github.com/DarshanKalburgi19/Digital_Forensics_Toolkit.git
 cd Digital-Forensics-Toolkit
 
 # pip install -r requirements.txt
