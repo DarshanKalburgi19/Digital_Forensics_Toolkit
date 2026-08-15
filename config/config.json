@@ -1,0 +1,35 @@
+{
+  "application": {
+    "name": "Digital Forensics Toolkit",
+    "version": "1.0.0",
+    "author": "DarshanKalburgi19"
+  },
+  "paths": {
+    "cases_dir": "cases",
+    "evidence_dir": "evidence",
+    "reports_dir": "reports_output",
+    "logs_dir": "logs",
+    "database_dir": "database"
+  },
+  "forensics": {
+    "hash_algorithms": ["md5", "sha1", "sha256", "sha512"],
+    "chunk_size": 8192
+  },
+  "external_tools": {
+    "sleuthkit": {
+      "mmls": "mmls",
+      "fsstat": "fsstat",
+      "fls": "fls",
+      "istat": "istat",
+      "icat": "icat"
+    },
+    "volatility": {
+      "executable": "vol.py",
+      "python_module": "volatility3"
+    }
+  },
+  "logging": {
+    "level": "INFO",
+    "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  }
+}

@@ -1,0 +1,10 @@
+# Core dependencies
+psutil>=5.9.0
+reportlab>=4.0.0
+
+# Optional - 
+
+#  python-magic
+#  Volatility 3
+#  Sleuth Kit
+# volatility3  # Install separately if needed

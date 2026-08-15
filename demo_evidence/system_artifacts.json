@@ -1,0 +1,31 @@
+{
+  "collection_time": "2026-08-09T00:46:05.482712",
+  "suspicious_processes": [
+    {
+      "pid": 1234,
+      "name": "unknown_process.exe",
+      "path": "C:\\Users\\Public\\Temp\\unknown_process.exe",
+      "indicators": [
+        "Running from temporary directory",
+        "No digital signature"
+      ]
+    },
+    {
+      "pid": 5678,
+      "name": "svchost.exe",
+      "path": "C:\\Windows\\Temp\\svchost.exe",
+      "indicators": [
+        "Unusual svchost location"
+      ]
+    }
+  ],
+  "network_connections": [
+    {
+      "local": "192.168.1.100:49152",
+      "remote": "203.0.113.50:443",
+      "state": "ESTABLISHED",
+      "process": "unknown_process.exe"
+    }
+  ],
+  "note": "This is synthetic data for demonstration purposes"
+}

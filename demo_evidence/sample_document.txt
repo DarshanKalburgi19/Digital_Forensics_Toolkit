@@ -1,0 +1,19 @@
+CONFIDENTIAL INTERNAL MEMO
+
+Date: 2024-01-15
+From: IT Security Team
+To: Management
+Subject: Security Audit Findings
+
+This is a sample document for forensic analysis demonstration.
+
+The following findings were identified during our security audit:
+
+1. Unauthorized software installations detected
+2. Multiple failed login attempts from external IP addresses
+3. Suspicious network traffic patterns observed
+4. Missing security patches on critical systems
+
+Recommendation: Immediate investigation required.
+
+This is synthetic data for educational purposes only.

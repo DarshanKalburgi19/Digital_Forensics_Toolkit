@@ -1,0 +1,83 @@
+
+DEMO CASE SETUP INSTRUCTIONS
+=============================
+
+Follow these steps to create and analyze the demo case:
+
+1. LAUNCH APPLICATION:
+   python app.py
+
+2. CREATE DEMO CASE:
+   - Click "Create New Case"
+   - Case ID: DEMO-2024-001
+   - Case Name: Demonstration Investigation
+   - Investigator: Your Name
+   - Description: Educational demonstration of forensic toolkit
+
+3. ADD EVIDENCE:
+   - Click "Add Evidence" tab
+   - Add files from demo_evidence/ directory:
+     * sample_document.txt
+     * suspicious_script.txt
+     * browser_history_sample.csv
+     * system_artifacts.json
+     * security_events.log
+
+4. VERIFY INTEGRITY:
+   - Select each evidence item
+   - Click "Verify Integrity"
+   - Observe hash verification
+
+5. PERFORM ANALYSIS:
+   - Go to Analysis tab
+   - Collect system information (live collection)
+   - Collect process information
+   - Analyze individual files
+
+6. VIEW CHAIN OF CUSTODY:
+   - Click "View Chain of Custody"
+   - Observe all evidence handling actions
+   - Export to JSON or CSV
+
+7. GENERATE REPORT:
+   - Go to Reports tab
+   - Select report sections
+   - Add your findings
+   - Generate PDF report
+
+DEMONSTRATION SCENARIOS:
+-----------------------
+
+Scenario 1: Basic Evidence Handling
+- Add evidence
+- Calculate hashes
+- Verify integrity
+- Review chain of custody
+
+Scenario 2: File Analysis
+- Analyze sample_document.txt
+- Review metadata and hashes
+- Document findings
+
+Scenario 3: Artifact Review
+- Review system_artifacts.json
+- Identify suspicious indicators
+- Document in report
+
+Scenario 4: Complete Investigation
+- Perform all analysis steps
+- Document findings
+- Generate comprehensive report
+
+SCREENSHOTS FOR DOCUMENTATION:
+-----------------------------
+Recommended screenshots to capture:
+1. Case creation dialog
+2. Evidence inventory
+3. Integrity verification result
+4. Chain of custody view
+5. File analysis results
+6. System information collection
+7. Report generation options
+8. Generated PDF report
+

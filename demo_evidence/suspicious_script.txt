@@ -1,0 +1,14 @@
+# Sample Script (HARMLESS - FOR DEMONSTRATION ONLY)
+# This is NOT actual malware
+
+echo "This is a demonstration script"
+echo "Simulating suspicious activity logging"
+
+# Fake commands that might appear suspicious:
+# whoami
+# net user
+# ipconfig /all
+# netstat -ano
+
+echo "Educational demonstration complete"
+# NO ACTUAL MALICIOUS CODE IS PRESENT

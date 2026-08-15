@@ -1,0 +1,8 @@
+2024-01-15 08:00:01 [INFO] System boot completed
+2024-01-15 10:15:23 [WARNING] Failed login attempt from 203.0.113.25
+2024-01-15 10:15:45 [WARNING] Failed login attempt from 203.0.113.25
+2024-01-15 10:16:12 [WARNING] Failed login attempt from 203.0.113.25
+2024-01-15 10:20:00 [INFO] Successful login: admin user
+2024-01-15 14:30:15 [WARNING] Unauthorized software installation detected
+2024-01-15 14:35:00 [CRITICAL] Suspicious outbound connection blocked
+2024-01-15 16:00:00 [INFO] Security scan initiated
